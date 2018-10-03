@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="582 320 756.53 158.712">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5c84c3;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        font-size: 76px;
+        font-family: GoogleSans-Medium, Google Sans;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(277 156)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="756.53" height="158.712" transform="translate(305 164)"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(354 196)">
+      <g id="Group_2" data-name="Group 2" transform="translate(0 18.228)">
+        <path id="Path_1" data-name="Path 1" class="cls-2" d="M83.5,27.1H98.784c15.488,0,25.27,10.393,25.27,24.863s-9.782,24.863-25.27,24.863H83.5ZM98.988,69.081c10.8,0,17.526-5.91,17.526-17.322,0-11.209-6.725-17.322-17.526-17.322H91.04V69.081Z" transform="translate(38.164 -21.394)"/>
+        <path id="Path_2" data-name="Path 2" class="cls-2" d="M106.244,50.244H82.4V57.58H99.112c-.611,3.668-1.834,6.725-3.872,8.559a17.515,17.515,0,0,1-13.247,5.3A18.744,18.744,0,0,1,63.244,52.485,18.618,18.618,0,0,1,81.993,33.533a18.11,18.11,0,0,1,12.839,5.095l5.095-5.095A24.985,24.985,0,0,0,81.993,26.4C67.524,26.4,55.5,38.016,55.5,52.485S67.524,78.571,81.993,78.571c7.744,0,13.654-2.446,18.138-7.337,4.687-4.687,6.114-11.412,6.114-16.711A7.606,7.606,0,0,0,106.244,50.244Z" transform="translate(9.102 -22.12)"/>
+        <path id="Path_3" data-name="Path 3" class="cls-2" d="M156.444,50.244H132.6V57.58h16.711c-.611,3.668-1.834,6.725-3.872,8.559a17.515,17.515,0,0,1-13.247,5.3,18.954,18.954,0,0,1,0-37.905,18.11,18.11,0,0,1,12.839,5.095l5.095-5.095A24.985,24.985,0,0,0,132.193,26.4c-14.469,0-26.493,11.616-26.493,26.085s12.024,26.085,26.493,26.085c7.744,0,13.654-2.446,18.138-7.337,4.687-4.687,6.114-11.412,6.114-16.711A10.051,10.051,0,0,0,156.444,50.244Z" transform="translate(61.206 -22.12)"/>
+        <g id="Group_1" data-name="Group 1">
+          <path id="Path_4" data-name="Path 4" class="cls-2" d="M47.236,49.548,42.141,41.6,23.8,70.131H34.193Z" transform="translate(-23.8 -6.344)"/>
+          <path id="Path_5" data-name="Path 5" class="cls-2" d="M41.812,46.7,30.4,64.838h9.986L46.7,54.444Z" transform="translate(-16.95 -1.05)"/>
+          <path id="Path_6" data-name="Path 6" class="cls-2" d="M34.19,24.3H24L55.18,74.841l4.891-7.948Z" transform="translate(-23.592 -24.3)"/>
+          <path id="Path_7" data-name="Path 7" class="cls-2" d="M57.7,52.831,40.178,24.3H30.6L54.851,64.04,57.7,59.352a5.98,5.98,0,0,0,.815-3.261A4.392,4.392,0,0,0,57.7,52.831Z" transform="translate(-16.742 -24.3)"/>
+        </g>
+      </g>
+      <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-3" width="407.993" height="55.228" transform="translate(245.57 18.432)"/>
+      <text id="Vladivostok" class="cls-4" transform="translate(245.471 73)"><tspan x="0" y="0">Vladivostok</tspan></text>
+    </g>
+  </g>
+</svg>
